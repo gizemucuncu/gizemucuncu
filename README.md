@@ -42,6 +42,8 @@ I'm a backend developer based in Istanbul, Turkey. I graduated from Doğuş Univ
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-3B2F63?style=flat&logo=data&logoColor=white)
 
 ---
 
