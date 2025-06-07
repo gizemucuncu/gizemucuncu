@@ -94,16 +94,21 @@ I'm a backend developer based in Istanbul, Turkey. I graduated from Doğuş Univ
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gizem-üçüncü-547a12220" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gizem-üçüncü-547a12220">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    &nbsp; linkedin.com/in/gizem-üçüncü-547a12220
   </a>
-  
-  <a href="https://github.com/gizemucuncu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <br/>
+
+  <a href="https://github.com/gizemucuncu">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    &nbsp; github.com/gizemucuncu
   </a>
+  <br/>
 
   <a href="mailto:gizemucuncu34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    &nbsp; gizemucuncu34@gmail.com
   </a>
 </p>
 
