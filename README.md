@@ -63,13 +63,6 @@ I'm a backend developer based in Istanbul, Turkey. I graduated from Doğuş Univ
 
 ---
 
-### 📂 Featured Project
-
-#### 📚 [Library Management System](https://github.com/gizemucuncu/LibraryManagementSystem)
-> A Java-based system that allows users to add, borrow, return, and search books.
-
----
-
 ### 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gizemucuncu&theme=flat&no-frame=true&margin-w=10)
